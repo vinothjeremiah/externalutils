@@ -1,0 +1,35 @@
+{
+	"id": "20200205Model_PNO.ifc",
+	"name": "20200205Model_PNO.ifc",
+	"created": "Wed, 14 Jun 2017 07:00:00 GMT",
+	"models": [
+		{
+			"id": "20200205Model_PNO",
+			"name": "20200205Model_PNO",
+			"metadata": {
+				"sourceFormat": "IFC",
+				"schemaVersion": "",
+				"title": "",
+				"author": "",
+				"created": "",
+				"numPropertySets": 63,
+				"numMetaObjects": 224,
+				"numObjects": 223,
+				"numTriangles": 1490,
+				"numVertices": 2346,
+				"xktSizeKb": "17.84",
+				"aabb": [
+					-60.099998474121094,
+					-5.9371814131736755e-8,
+					-6.279999773018062,
+					65.38000178616494,
+					3.5000001662410796,
+					0.08000000100582838
+				]
+			}
+		}
+	],
+	"viewerConfigs": {},
+	"viewerContent": {},
+	"viewerState": {}
+}
